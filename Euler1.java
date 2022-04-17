@@ -13,6 +13,6 @@ public class Euler1{
                 sum += i;
             }
         } 
-    System.out.println("sum:" + " " +sum);
+    System.out.println("sum: " + sum);
     }
 }
